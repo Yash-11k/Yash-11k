@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Yash! 👋
 
-<!--
-**Yash-11k/Yash-11k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Engineering student passionate about Data Science, Machine Learning, and building smart analytical solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm currently working on:
+* 🚀 Building predictive models and data analytics pipelines.
+* 📊 Creating interactive dashboards to turn raw data into insights.
+* 🧠 Exploring Deep Learning and Computer Vision.
+
+---
+
+### 🛠️ Tech Stack & Tools:
+* **Languages:** Python, SQL, JavaScript
+* **Data Science/ML:** Pandas, NumPy, Scikit-Learn, XGBoost, YOLO
+* **BI & Visualization:** Power BI, Streamlit
+* **Tools:** Git, GitHub, Jupyter Notebooks
+
+---
+
+### 📫 Connect with me:
+* [LinkedIn](https://linkedin.com) *(Add your link here)*
+* [Email](mailto:your.email@example.com) *(Add your email here)*
+
+---
+<p align="center">
+  <i>"Turning data into decisions, one line of code at a time."</i>
+</p>
