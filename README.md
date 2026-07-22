@@ -20,7 +20,7 @@
 ```yaml
 # ~/profile/config.yaml
 system:
-  name: "Yash Kagra"
+  name: "Yash "
   role: "Computer Science & Engineering Undergraduate"
   institution: "Deenbandhu Chhotu Ram University of Science & Technology (DCRUST), Murthal"
   program: "B.Tech CSE (2023 – 2027)"
