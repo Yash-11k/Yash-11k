@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6d28d9,100:fbbf24&height=260&section=header&text=YASH%20KAGRA&fontSize=68&fontColor=fbbf24&fontAlignY=32&desc=Data%20Science%20×%20Machine%20Learning%20×%20Generative%20AI&descAlignY=52&descSize=17&descColor=e9d5ff&animation=fadeIn" width="100%"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIzMCIgdmlld0JveD0iMCAwIDkwMCAyMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJvcmRlckdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmJiZjI0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzZkMjhkOSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmdHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBkMTExNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxNDEwMWYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CgogIDwhLS0gb3V0ZXIgZ2xvd2luZyBib3JkZXIgLS0+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9Ijg5NCIgaGVpZ2h0PSIyMjQiIHJ4PSIxOCIgZmlsbD0idXJsKCNiZ0dyYWQpIiBzdHJva2U9InVybCgjYm9yZGVyR3JhZCkiIHN0cm9rZS13aWR0aD0iMi41Ii8+CgogIDwhLS0gdGl0bGUgYmFyIC0tPgogIDxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSI4OTQiIGhlaWdodD0iMzQiIHJ4PSIxOCIgZmlsbD0iIzE2MWIyNiIvPgogIDxyZWN0IHg9IjMiIHk9IjIwIiB3aWR0aD0iODk0IiBoZWlnaHQ9IjE3IiBmaWxsPSIjMTYxYjI2Ii8+CiAgPGNpcmNsZSBjeD0iMjYiIGN5PSIyMCIgcj0iNiIgZmlsbD0iI2ZmNWY1NiIvPgogIDxjaXJjbGUgY3g9IjQ2IiBjeT0iMjAiIHI9IjYiIGZpbGw9IiNmZmJkMmUiLz4KICA8Y2lyY2xlIGN4PSI2NiIgY3k9IjIwIiByPSI2IiBmaWxsPSIjMjdjOTNmIi8+CiAgPHRleHQgeD0iNDUwIiB5PSIyNSIgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM4YjdmYWUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPnlhc2hAZGNydXN0OiB+L3BvcnRmb2xpbzwvdGV4dD4KCiAgPCEtLSB0ZXJtaW5hbCBib2R5IC0tPgogIDx0ZXh0IHg9IjMwIiB5PSI3MiIgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTgiIGZpbGw9IiNmYmJmMjQiPiQgd2hvYW1pPC90ZXh0PgogIDx0ZXh0IHg9IjMwIiB5PSIxMDAiIGZvbnQtZmFtaWx5PSJKZXRCcmFpbnMgTW9ubywgbW9ub3NwYWNlIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZjRmMGZmIj4KICAgIDx0c3BhbiBmaWxsPSIjYzRiNWZkIj4mZ3Q7PC90c3Bhbj4gWWFzaCDigJQgRGF0YSBTY2llbnRpc3QgJmFtcDsgTUwgRW5naW5lZXIKICA8L3RleHQ+CgogIDx0ZXh0IHg9IjMwIiB5PSIxMzIiIGZvbnQtZmFtaWx5PSJKZXRCcmFpbnMgTW9ubywgbW9ub3NwYWNlIiBmb250LXNpemU9IjE1IiBmaWxsPSIjYTc4YmZhIj4kIGNhdCBmb2N1cy50eHQ8L3RleHQ+CiAgPHRleHQgeD0iMzAiIHk9IjE1NiIgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiNkOGQyZjAiPgogICAgTWFjaGluZSBMZWFybmluZyAmIzgyMjY7IExMTSBBZ2VudHMgJiM4MjI2OyBCSSBFbmdpbmVlcmluZyAmIzgyMjY7IERDUlVTVCAnMjcKICA8L3RleHQ+CgogIDx0ZXh0IHg9IjMwIiB5PSIxODgiIGZvbnQtZmFtaWx5PSJKZXRCcmFpbnMgTW9ubywgbW9ub3NwYWNlIiBmb250LXNpemU9IjE1IiBmaWxsPSIjYTc4YmZhIj4kIC4vZGVwbG95LnNoIC0taXRlcmF0ZTwvdGV4dD4KICA8dGV4dCB4PSIzMCIgeT0iMTg4IiBmb250LWZhbWlseT0iSmV0QnJhaW5zIE1vbm8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNSIgZmlsbD0iI2E3OGJmYSIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzE7MTswIiBkdXI9IjMuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC90ZXh0PgoKICA8IS0tIGJsaW5raW5nIGN1cnNvciAtLT4KICA8cmVjdCB4PSIzMzAiIHk9IjE3NiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjE2IiBmaWxsPSIjZmJiZjI0Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMTsxOzA7MCIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3JlY3Q+CgogIDwhLS0gc2lkZSBhY2NlbnQgYmFycyAtLT4KICA8cmVjdCB4PSI4NjAiIHk9IjU1IiB3aWR0aD0iNiIgaGVpZ2h0PSIxNTAiIHJ4PSIzIiBmaWxsPSJ1cmwoI2JvcmRlckdyYWQpIiBvcGFjaXR5PSIwLjYiLz4KPC9zdmc+Cg==" alt="Yash terminal banner" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&width=760&lines=root%40yash%3A~%24+whoami;CSE+Undergrad+%40+DCRUST%2C+Murthal;Building+ML+pipelines+%2B+BI+dashboards+%2B+LLM+agents;root%40yash%3A~%24+echo+%22deploy+%26%26+iterate%22" />
 
@@ -20,7 +20,7 @@
 ```yaml
 # ~/profile/config.yaml
 system:
-  name: "Yash "
+  name: "Yash"
   role: "Computer Science & Engineering Undergraduate"
   institution: "Deenbandhu Chhotu Ram University of Science & Technology (DCRUST), Murthal"
   program: "B.Tech CSE (2023 – 2027)"
@@ -33,41 +33,47 @@ system:
 
 ## `01` — SYSTEM ARCHITECTURE
 
-<pre align="center" style="color:#fbbf24; font-size:13px; line-height:1.5;">
-┌──────────────────────────────────────────────────────────────────┐
-│                    YASH // TECH STACK TREE                        │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                    │
-│  client/                                                          │
-│  ├── languages/                                                   │
-│  │   ├── python.py         ██████████████░░  <b>Core</b>          │
-│  │   ├── sql.query         ████████████░░░░  <b>Postgres/MySQL</b>│
-│  │   ├── javascript.js     ███████░░░░░░░░░  <b>React.js (MERN)</b>│
-│  │   └── c.c                ████████░░░░░░░░  <b>Fundamentals</b> │
-│  │                                                                │
-│  ├── ml_pipeline/                                                 │
-│  │   ├── sklearn ── xgboost ── random_forest ── pytorch          │
-│  │   ├── pandas ── numpy ── EDA ── stats ── A/B testing          │
-│  │   └── model.deploy() ──▶ streamlit_cloud / huggingface_spaces │
-│  │                                                                │
-│  ├── genai_agents/                                                │
-│  │   ├── groq(llama-3.1) ── langchain ── chromadb                │
-│  │   └── text_to_sql ── vector_search ── self_healing_loop       │
-│  │                                                                │
-│  ├── backend/                                                     │
-│  │   └── fastapi / flask / streamlit                              │
-│  │                                                                │
-│  ├── devops-cloud/                                                │
-│  │   ├── git & github ── docker ── aws(sagemaker)                │
-│  │   └── vercel ── render ── streamlit_cloud ── huggingface      │
-│  │                                                                │
-│  └── analytics-bi/                                                │
-│      ├── power_bi (DAX + Power Query)                            │
-│      ├── looker_studio                                           │
-│      └── excel (xlookup + pivot + automation)                    │
-│                                                                    │
-└──────────────────────────────────────────────────────────────────┘
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+<pre style="color:#fbbf24; font-size:12.5px; line-height:1.5;">
+┌────────────────────────────────────────────┐
+│           YASH // TECH STACK TREE           │
+├────────────────────────────────────────────┤
+│                                              │
+│  client/                                    │
+│  ├── languages/                             │
+│  │   ├── python.py       ██████████████░░   │
+│  │   ├── sql.query       ████████████░░░░   │
+│  │   ├── javascript.js   ███████░░░░░░░░░   │
+│  │   └── c.c              ████████░░░░░░░░   │
+│  │                                           │
+│  ├── ml_pipeline/                            │
+│  │   ├── sklearn ── xgboost ── pytorch      │
+│  │   └── deploy() ──▶ streamlit/hf_spaces   │
+│  │                                           │
+│  ├── genai_agents/                           │
+│  │   ├── groq(llama-3.1) ── langchain       │
+│  │   └── text_to_sql ── self_healing_loop   │
+│  │                                           │
+│  ├── backend/  fastapi · flask · streamlit  │
+│  ├── devops/   git · docker · aws · vercel  │
+│  └── bi/       power_bi · looker · excel    │
+│                                              │
+└────────────────────────────────────────────┘
 </pre>
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIwIiBoZWlnaHQ9IjQyMCIgdmlld0JveD0iMCAwIDQyMCA0MjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImNvcmVHcmFkIiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmJiZjI0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzZkMjhkOSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icmluZ0dyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2IiBzdG9wLW9wYWNpdHk9IjAuNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmYmJmMjQiIHN0b3Atb3BhY2l0eT0iMC4xNSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CgogIDxjaXJjbGUgY3g9IjIxMCIgY3k9IjIxMCIgcj0iMjA1IiBmaWxsPSIjMGQxMTE3Ii8+CgogIDwhLS0gb3JiaXQgcmluZ3MgLS0+CiAgPGNpcmNsZSBjeD0iMjEwIiBjeT0iMjEwIiByPSI5MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ1cmwoI3JpbmdHcmFkKSIgc3Ryb2tlLXdpZHRoPSIxLjQiLz4KICA8Y2lyY2xlIGN4PSIyMTAiIGN5PSIyMTAiIHI9IjE0NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ1cmwoI3JpbmdHcmFkKSIgc3Ryb2tlLXdpZHRoPSIxLjIiIHN0cm9rZS1kYXNoYXJyYXk9IjQgNiIvPgogIDxjaXJjbGUgY3g9IjIxMCIgY3k9IjIxMCIgcj0iMTkwIiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjcmluZ0dyYWQpIiBzdHJva2Utd2lkdGg9IjEiLz4KCiAgPCEtLSBjb3JlIC0tPgogIDxjaXJjbGUgY3g9IjIxMCIgY3k9IjIxMCIgcj0iNDYiIGZpbGw9InVybCgjY29yZUdyYWQpIi8+CiAgPHRleHQgeD0iMjEwIiB5PSIyMDUiIGZvbnQtZmFtaWx5PSJKZXRCcmFpbnMgTW9ubywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjMGQxMTE3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5EQVRBPC90ZXh0PgogIDx0ZXh0IHg9IjIxMCIgeT0iMjIwIiBmb250LWZhbWlseT0iSmV0QnJhaW5zIE1vbm8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzBkMTExNyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+U0NJRU5DRTwvdGV4dD4KCiAgPCEtLSBvcmJpdGluZyBza2lsbCBncm91cDogaW5uZXIgcmluZyAocm90YXRlcyBzbG93KSAtLT4KICA8Zz4KICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBmcm9tPSIwIDIxMCAyMTAiIHRvPSIzNjAgMjEwIDIxMCIgZHVyPSIyMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMTAsMTIwKSI+CiAgICAgIDxjaXJjbGUgcj0iMjQiIGZpbGw9IiMxNjFiMjYiIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIxLjYiLz4KICAgICAgPHRleHQgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiNmYmJmMjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSI0Ij5QeXRob248L3RleHQ+CiAgICA8L2c+CiAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMDAsMjEwKSI+CiAgICAgIDxjaXJjbGUgcj0iMjQiIGZpbGw9IiMxNjFiMjYiIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIxLjYiLz4KICAgICAgPHRleHQgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiNmYmJmMjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSI0Ij5TUUw8L3RleHQ+CiAgICA8L2c+CiAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMTAsMzAwKSI+CiAgICAgIDxjaXJjbGUgcj0iMjQiIGZpbGw9IiMxNjFiMjYiIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIxLjYiLz4KICAgICAgPHRleHQgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOS41IiBmaWxsPSIjZmJiZjI0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iNCI+WEdCb29zdDwvdGV4dD4KICAgIDwvZz4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyMCwyMTApIj4KICAgICAgPGNpcmNsZSByPSIyNCIgZmlsbD0iIzE2MWIyNiIgc3Ryb2tlPSIjZmJiZjI0IiBzdHJva2Utd2lkdGg9IjEuNiIvPgogICAgICA8dGV4dCBmb250LWZhbWlseT0iSmV0QnJhaW5zIE1vbm8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSI5LjUiIGZpbGw9IiNmYmJmMjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSI0Ij5QYW5kYXM8L3RleHQ+CiAgICA8L2c+CiAgPC9nPgoKICA8IS0tIG9yYml0aW5nIHNraWxsIGdyb3VwOiBvdXRlciByaW5nIChyb3RhdGVzIG9wcG9zaXRlLCBzbG93ZXIpIC0tPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGZyb209IjM2MCAyMTAgMjEwIiB0bz0iMCAyMTAgMjEwIiBkdXI9IjM0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIxMCw2NSkiPgogICAgICA8Y2lyY2xlIHI9IjI2IiBmaWxsPSIjMTYxYjI2IiBzdHJva2U9IiM4YjVjZjYiIHN0cm9rZS13aWR0aD0iMS42Ii8+CiAgICAgIDx0ZXh0IGZvbnQtZmFtaWx5PSJKZXRCcmFpbnMgTW9ubywgbW9ub3NwYWNlIiBmb250LXNpemU9IjkuNSIgZmlsbD0iI2M0YjVmZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9IjQiPlBvd2VyIEJJPC90ZXh0PgogICAgPC9nPgogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzU1LDIxMCkiPgogICAgICA8Y2lyY2xlIHI9IjI2IiBmaWxsPSIjMTYxYjI2IiBzdHJva2U9IiM4YjVjZjYiIHN0cm9rZS13aWR0aD0iMS42Ii8+CiAgICAgIDx0ZXh0IGZvbnQtZmFtaWx5PSJKZXRCcmFpbnMgTW9ubywgbW9ub3NwYWNlIiBmb250LXNpemU9IjkuNSIgZmlsbD0iI2M0YjVmZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9IjQiPkRvY2tlcjwvdGV4dD4KICAgIDwvZz4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIxMCwzNTUpIj4KICAgICAgPGNpcmNsZSByPSIyNiIgZmlsbD0iIzE2MWIyNiIgc3Ryb2tlPSIjOGI1Y2Y2IiBzdHJva2Utd2lkdGg9IjEuNiIvPgogICAgICA8dGV4dCBmb250LWZhbWlseT0iSmV0QnJhaW5zIE1vbm8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSI5LjUiIGZpbGw9IiNjNGI1ZmQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSI0Ij5MYW5nQ2hhaW48L3RleHQ+CiAgICA8L2c+CiAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2NSwyMTApIj4KICAgICAgPGNpcmNsZSByPSIyNiIgZmlsbD0iIzE2MWIyNiIgc3Ryb2tlPSIjOGI1Y2Y2IiBzdHJva2Utd2lkdGg9IjEuNiIvPgogICAgICA8dGV4dCBmb250LWZhbWlseT0iSmV0QnJhaW5zIE1vbm8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSI5LjUiIGZpbGw9IiNjNGI1ZmQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSI0Ij5GYXN0QVBJPC90ZXh0PgogICAgPC9nPgogIDwvZz4KPC9zdmc+Cg==" alt="Yash rotating skill orbit" width="320"/>
+<br/>
+<sub><b>Core stack, orbiting.</b> 🐍 Python & SQL at the center of everything I build.</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,6 +93,10 @@ system:
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-11k&layout=compact&theme=radical&bg_color=0d1117&title_color=fbbf24&text_color=e9d5ff&border_color=6d28d9&hide_border=false" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-11k&theme=react-dark&bg_color=0d1117&color=fbbf24&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 <br/><br/>
 
@@ -254,7 +264,22 @@ Customer segmentation using **K-Means clustering**, with Elbow Method and Silhou
 
 ---
 
-## `05` — CERTIFICATION REGISTRY
+## `05` — CURRENTLY LEARNING // NEXT UP
+
+```
+[  ] MERN Stack — building full-stack apps end-to-end (React + Node + Mongo)
+[  ] Agentic AI / Multi-agent orchestration — beyond single-agent SQL healing
+[  ] MLOps — model monitoring, CI/CD for ML, experiment tracking
+[  ] Advanced SQL performance tuning — query optimization at scale
+```
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
+</div>
+
+---
+
+## `06` — CERTIFICATION REGISTRY
 
 <div align="center">
 
@@ -270,7 +295,7 @@ Customer segmentation using **K-Means clustering**, with Elbow Method and Silhou
 
 ---
 
-## `06` — LEADERSHIP & ACHIEVEMENTS
+## `07` — LEADERSHIP & ACHIEVEMENTS
 
 ```
 > Core Team Member — Institute Innovation Council (IIC), DCRUST
@@ -289,7 +314,7 @@ Customer segmentation using **K-Means clustering**, with Elbow Method and Silhou
 
 ---
 
-## `07` — TECH STACK // BADGE ARRAY
+## `08` — TECH STACK // BADGE ARRAY
 
 <div align="center">
 
@@ -345,7 +370,7 @@ Customer segmentation using **K-Means clustering**, with Elbow Method and Silhou
 
 ---
 
-## `08` — NETWORK // CONNECT
+## `09` — NETWORK // CONNECT
 
 ```json
 {
@@ -368,6 +393,10 @@ Customer segmentation using **K-Means clustering**, with Elbow Method and Silhou
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=fbbf24)](https://www.linkedin.com/in/yash-k-45536829a/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Yash-11k)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=fbbf24)](https://leetcode.com/u/Yashk_11925/)
+
+<br/><br/>
+
+### ⭐ If any of these projects helped you or sparked an idea, a star on the repo means a lot.
 
 </div>
 
