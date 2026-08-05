@@ -380,7 +380,7 @@ Customer segmentation using **K-Means clustering**, with Elbow Method and Silhou
     "linkedin": "https://www.linkedin.com/in/yash-k-45536829a/",
     "github": "https://github.com/Yash-11k",
     "leetcode": "https://leetcode.com/u/Yashk_11925/",
-    "location": "Rohtak, Haryana, India"
+    "location": "Rohtak, Haryana, India(Open to Re-locate)"
   },
   "availability": "open_to_internships_and_collaboration",
   "response_time": "< 24h"
