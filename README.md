@@ -83,7 +83,7 @@ system:
 
 | 🧩 **PROBLEMS SOLVED** | 🔀 **PRS MERGED** | 🏛️ **CORE TEAM** | 📊 **ROWS ANALYZED** | 🚀 **PROJECTS SHIPPED** |
 |:---:|:---:|:---:|:---:|:---:|
-| **150+** LeetCode / HackerRank | **10+** Open Source | **IIC, DCRUST** | **1M+** across projects | **8** end-to-end builds |
+| **150+** LeetCode | **10+** Open Source | **IIC, DCRUST** | **1M+** across projects | **8** end-to-end builds |
 
 <br/>
 
