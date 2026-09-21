@@ -10,7 +10,7 @@
 
 [![Status](https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-6d28d9?style=for-the-badge&labelColor=0d1117)](https://github.com/Yash-11k)
 [![Open to Work](https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-fbbf24?style=for-the-badge&labelColor=0d1117)](mailto:yashkagra11@gmail.com)
-[![Location](https://img.shields.io/badge/LOCATION-DELHI NCR]-c4b5fd?style=for-the-badge&labelColor=0d1117)](https://github.com/Yash-11k)
+[![Location](https://img.shields.io/badge/LOCATION-DELHI%20NCR-c4b5fd?style=for-the-badge&labelColor=0d1117)](https://github.com/Yash-11k)
 [![Profile Views](https://komarev.com/ghpvc/?username=Yash-11k&style=for-the-badge&color=6d28d9&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Yash-11k)
 
 </div>
