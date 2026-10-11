@@ -1,411 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6d28d9,100:fbbf24&height=230&section=header&text=YASH&fontSize=72&fontColor=fbbf24&fontAlignY=35&desc=Data%20Science%20×%20Machine%20Learning%20×%20Generative%20AI&descAlignY=58&descSize=17&descColor=e9d5ff&animation=fadeIn" width="100%"/>
+# Yash
 
-<br/><br/>
+**Data Science · Machine Learning · Generative AI**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&width=760&lines=root%40yash%3A~%24+whoami;CSE+Undergrad+%40+DCRUST%2C+Murthal;Building+ML+pipelines+%2B+BI+dashboards+%2B+LLM+agents;root%40yash%3A~%24+echo+%22deploy+%26%26+iterate%22" />
+B.Tech CSE (2023–2027) at DCRUST, Murthal · Haryana, India · Open to relocate
 
-<br/><br/>
-
-[![Status](https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-6d28d9?style=for-the-badge&labelColor=0d1117)](https://github.com/Yash-11k)
-[![Open to Work](https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-fbbf24?style=for-the-badge&labelColor=0d1117)](mailto:yashkagra11@gmail.com)
-[![Location](https://img.shields.io/badge/LOCATION-DELHI%20NCR-c4b5fd?style=for-the-badge&labelColor=0d1117)](https://github.com/Yash-11k)
-[![Profile Views](https://komarev.com/ghpvc/?username=Yash-11k&style=for-the-badge&color=6d28d9&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Yash-11k)
+<a href="mailto:yashkagra11@gmail.com"><img src="https://img.shields.io/badge/Open_to-Internships-238636?style=flat-square&labelColor=161b22" alt="Open to internships"/></a>
+<a href="https://www.linkedin.com/in/yash-k-45536829a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Yashk_11925/"><img src="https://img.shields.io/badge/LeetCode-150%2B_solved-d29922?style=flat-square&logo=leetcode&logoColor=white&labelColor=161b22" alt="LeetCode"/></a>
+<a href="mailto:yashkagra11@gmail.com"><img src="https://img.shields.io/badge/Email-yashkagra11@gmail.com-8b949e?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/></a>
 
 </div>
+
+---
+
+## About
+
+I build data products end to end: cleaning and analysing data in **Python and SQL**, training and deploying **ML models**, shipping **BI dashboards**, and experimenting with **LLM agents** (Text-to-SQL with a self-correcting loop). I have worked as a data analyst intern at two startups and contribute to open source.
+
+| | |
+|:--|:--|
+| **Focus** | Data Analytics · Machine Learning · Generative AI / Agents · BI |
+| **Core stack** | Python, SQL, scikit-learn, XGBoost, FastAPI, Streamlit, Power BI |
+| **Currently learning** | MERN stack · Multi-agent orchestration · MLOps · SQL performance tuning |
+| **Reach me** | Email or LinkedIn, I usually reply within a day |
+
+---
+
+## Impact at a glance
+
+<div align="center">
+
+| 150+ | 10+ | 1M+ | 8 |
+|:---:|:---:|:---:|:---:|
+| LeetCode / HackerRank problems | Open-source PRs merged | Rows analysed across projects | End-to-end projects shipped |
+
+</div>
+
+---
+
+## Experience
+
+| Period | Role | Highlights |
+|:--|:--|:--|
+| **Dec 2025 – Apr 2026** | **Data Analyst Intern**<br/>To LetGlobe · Remote | Audited and cleaned 100+ production rental records, cutting data errors by **30%**<br/>Built custom performance trackers for real-time visibility into daily leads<br/>Streamlined ops workflows for faster access to high-priority data |
+| **Jun 2025 – Aug 2025** | **Data Analyst Intern**<br/>Infotact Solutions Pvt. Ltd · Remote, Bengaluru | Analysed 10,000+ rows with Python and SQL, surfacing **3+ revenue trends**<br/>Optimised customer segmentation for sharper targeted marketing<br/>Built Power BI dashboards tracking **5+ KPIs** in real time |
+| **Dec 2024 – Present** | **Open Source Contributor**<br/>GitHub | Resolved 5+ real-world issues across public repositories<br/>Merged 10+ pull requests adding features and documentation |
+
+---
+
+## Featured projects
+
+| Project | Overview | Stack | Result | Links |
+|:--|:--|:--|:--|:--|
+| **NeuralSQL Agent** | Text-to-SQL engine turning plain English into executable SQL, with a Generator + Critic self-healing loop that fixes schema and syntax errors before execution | Groq (Llama 3.1), FastAPI, Docker, SQLite | 95%+ query success, sub-1.5s latency | [Live](https://neuralsql-agent-yash11k.streamlit.app/) · [Code](https://github.com/Yash-11k/NeuralSQL-Agent) |
+| **ZenithMind AI** | Student burnout predictor trained on 1M+ rows across 20+ academic and lifestyle features, with a real-time risk meter | Random Forest, XGBoost, Streamlit | 79% classification accuracy | [Live](https://zenithmind-ai-yash11k.streamlit.app/) · [Code](https://github.com/Yash-11k/ZenithMind-AI) |
+| **Route-Wise** | Uber trip distance forecaster with temporal feature engineering, one-hot encoding across 100+ categories, IQR capping and cleaning of 500+ missing values | XGBoost, Pandas, Streamlit | 82.1% accuracy | [Live](https://ubertripanalytics.streamlit.app/) · [Code](https://github.com/Yash-11k/Uber-Trip-Forecaster) |
+| **Medical Insurance Cost Prediction** | Regression pipeline comparing Linear Regression, Random Forest and XGBoost, deployed as a prediction API | Scikit-learn, XGBoost, Streamlit | R² = 0.88 | [Code](https://github.com/Yash-11k/Medical-Insurance-Cost-Prediction-ML-API) |
+| **Digital Payment Analytics Dashboard** | Two interactive dashboards on 650K+ credit card transactions (**$55M+** revenue) with KPIs, slicers, drill-downs and custom DAX measures | Power BI, SQL, Excel, Power Query, DAX | Top categories: Bills, Entertainment, Fuel, Grocery, Food | [Code](https://github.com/Yash-11k/Digital-Payment-Analytics-Dashboard-Customer-Spending-Behaviour) |
+| **Zepto SQL Sales Analysis** | Quick-commerce sales analysis using window functions and CTEs for customer segmentation and order trends | MySQL | n/a | [Code](https://github.com/Yash-11k/Zepto_SQL_Analysis-) |
+| **Diwali Sales Analysis** | End-to-end EDA on 20,000+ festive-season transactions across states and product categories | Pandas, Matplotlib, Seaborn | n/a | [Code](https://github.com/Yash-11k/PYTHON-EDA-ANALYSIS-DIWALI-SALES-) |
+| **Market Segmentation** | Customer clustering with K-Means, using Elbow Method and Silhouette Analysis to choose the number of clusters | K-Means, Scikit-learn, Seaborn | n/a | [All repositories](https://github.com/Yash-11k?tab=repositories) |
+
+---
+
+## Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,js,react,c,sklearn,pytorch,fastapi,flask,docker,git,aws,vercel,figma&theme=dark" alt="Tech stack icons"/>
+
+<br/><br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-161b22?style=flat-square&logo=xgboost&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-161b22?style=flat-square&logo=powerbi&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-161b22?style=flat-square&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-161b22?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-161b22?style=flat-square&logo=render&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face_Spaces-161b22?style=flat-square&logo=huggingface&logoColor=white)
+
+</div>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yash-11k&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yash-11k&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0969da&icon_color=1a7f37">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Yash-11k&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-11k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-11k&layout=compact&theme=default&hide_border=true&title_color=0969da">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-11k&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</picture>
 
 <br/>
 
-```yaml
-# ~/profile/config.yaml
-system:
-  name: "Yash"
-  role: "Computer Science & Engineering Undergraduate"
-  institution: "Deenbandhu Chhotu Ram University of Science & Technology (DCRUST), Murthal"
-  program: "B.Tech CSE (2023 – 2027)"
-  focus: ["Data Analytics", "Machine Learning", "Generative AI / Agents", "BI Engineering"]
-  status: ONLINE
-  uptime: "150+ problems solved :: shipping projects & PRs"
-```
-
----
-
-## `01` — SYSTEM ARCHITECTURE
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-<pre style="color:#fbbf24; font-size:12.5px; line-height:1.5;">
-┌────────────────────────────────────────────┐
-│           YASH // TECH STACK TREE           │
-├────────────────────────────────────────────┤
-│                                              │
-│  client/                                    │
-│  ├── languages/                             │
-│  │   ├── python.py       ██████████████░░   │
-│  │   ├── sql.query       ████████████░░░░   │
-│  │   ├── javascript.js   ███████░░░░░░░░░   │
-│  │   └── c.c              ████████░░░░░░░░   │
-│  │                                           │
-│  ├── ml_pipeline/                            │
-│  │   ├── sklearn ── xgboost ── pytorch      │
-│  │   └── deploy() ──▶ streamlit/hf_spaces   │
-│  │                                           │
-│  ├── genai_agents/                           │
-│  │   ├── groq(llama-3.1) ── langchain       │
-│  │   └── text_to_sql ── self_healing_loop   │
-│  │                                           │
-│  ├── backend/  fastapi · flask · streamlit  │
-│  ├── devops/   git · docker · aws · vercel  │
-│  └── bi/       power_bi · looker · excel    │
-│                                              │
-└────────────────────────────────────────────┘
-</pre>
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,js,react,c&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,fastapi,docker,git&theme=dark" /><br/><br/>
-<sub><b>Core stack.</b> 🐍 Python & SQL at the center of everything I build.</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-## `02` — TELEMETRY // LIVE METRICS
-
-<div align="center">
-
-| 🧩 **PROBLEMS SOLVED** | 🔀 **PRS MERGED** | 🏛️ **CORE TEAM** | 📊 **ROWS ANALYZED** | 🚀 **PROJECTS SHIPPED** |
-|:---:|:---:|:---:|:---:|:---:|
-| **150+** LeetCode | **10+** Open Source | **IIC, DCRUST** | **1M+** across projects | **8** end-to-end builds |
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yash-11k&show_icons=true&theme=radical&bg_color=0d1117&title_color=fbbf24&icon_color=fbbf24&text_color=e9d5ff&border_color=6d28d9&hide_border=false&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-11k&theme=radical&background=0d1117&border=6d28d9&stroke=fbbf24&ring=6d28d9&fire=fbbf24&currStreakLabel=fbbf24" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-11k&layout=compact&theme=radical&bg_color=0d1117&title_color=fbbf24&text_color=e9d5ff&border_color=6d28d9&hide_border=false" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-11k&theme=react-dark&bg_color=0d1117&color=fbbf24&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yash-11k&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-11k&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=c9d1d9&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
 
 </div>
 
 ---
 
-## `03` — DEPLOYMENT LOG // WORK EXPERIENCE
+## Certifications
 
-```
-[2025-12 → 2026-04]        DATA ANALYST INTERN · To LetGlobe (Remote, Startup)
-  ├─ audited & cleaned 100+ production rental records → cut data errors by 30%
-  ├─ built custom performance trackers → real-time visibility into daily leads
-  └─ streamlined ops workflows → faster access to high-priority data
-
-[2025-06 → 2025-08]        DATA ANALYST INTERN · Infotact Solutions Pvt. Ltd (Remote, Bengaluru)
-  ├─ phase_1: analyzed 10,000+ rows (Python + SQL) → 3+ revenue trends surfaced
-  ├─ phase_1: optimized customer segmentation → sharper targeted marketing
-  └─ phase_2: engineered Power BI dashboards → 5+ KPIs tracked in real time
-
-[2024-12 → PRESENT]        OPEN SOURCE CONTRIBUTOR · GitHub Ecosystem
-  ├─ resolved 5+ real-world issues across public repos
-  ├─ merged 10+ pull requests → scalable features + clean documentation
-  └─ status: actively collaborating with global teams
-```
-
----
-
-## `04` — DEPLOYED SYSTEMS // FEATURED PROJECTS
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧠💬 NeuralSQL Agent
-**Natural Language → SQL Engine**
-
-`Groq (Llama-3.1)` · `FastAPI` · `Docker` · `SQLite`
-
-Autonomous Text-to-SQL engine converting plain English into executable SQL at **sub-1.5s latency**, with a dual-agent (Generator + Critic) **Self-Healing loop** that auto-corrects schema/syntax errors before execution.
-
-**`> accuracy: 95%+ query success`**
-**`> status: 🟢 LIVE`**
-
-[![Live App](https://img.shields.io/badge/LIVE_APP-fbbf24?style=for-the-badge&logo=streamlit&logoColor=0d1117)](https://neuralsql-agent-yash11k.streamlit.app/)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-6d28d9?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Yash-11k/NeuralSQL-Agent)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠🤖 ZenithMind AI
-**Student Burnout Predictor**
-
-`Random Forest` · `XGBoost` · `Streamlit`
-
-Trained on **1M+ rows** of academic & lifestyle data (CGPA, sleep, exam pressure, anxiety, screen time) across 20+ features to classify burnout risk with a real-time risk meter.
-
-**`> accuracy: 79% classification`**
-**`> status: 🟢 LIVE`**
-
-[![Live App](https://img.shields.io/badge/LIVE_APP-fbbf24?style=for-the-badge&logo=streamlit&logoColor=0d1117)](https://zenithmind-ai-yash11k.streamlit.app/)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-6d28d9?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Yash-11k/ZenithMind-AI)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚕📊 Route-Wise
-**Uber Trip Distance Forecaster**
-
-`XGBoost` · `Pandas` · `Streamlit Cloud`
-
-Engineered temporal features (time-slots, days, months) + one-hot encoding across 100+ categorical dimensions, IQR capping, and cleaned 500+ missing values.
-
-**`> accuracy: 82.1%`**
-**`> status: 🟢 LIVE`**
-
-[![Live App](https://img.shields.io/badge/LIVE_APP-fbbf24?style=for-the-badge&logo=streamlit&logoColor=0d1117)](https://ubertripanalytics.streamlit.app/)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-6d28d9?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Yash-11k/Uber-Trip-Forecaster)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥💰 Medical Insurance Cost Prediction
-**Regression + ML API**
-
-`Scikit-learn` · `XGBoost` · `Streamlit`
-
-Regression pipeline comparing Linear Regression, Random Forest, and XGBoost to predict medical insurance costs, deployed as a live prediction API.
-
-**`> R² score: 88%`**
-**`> status: 🟢 LIVE`**
-
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-6d28d9?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Yash-11k/Medical-Insurance-Cost-Prediction-ML-API)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 💳📈 Digital Payment Analytics Dashboard
-**Customer Spending Behaviour Intelligence**
-
-`Power BI` · `SQL` · `Excel` · `Power Query` · `DAX`
-
-Two interactive dashboards dissecting **650K+ credit card transactions**, surfacing **$55M+ revenue** across customer segments (profession, education, card category). Ships dynamic KPIs, slicers, drill-downs, and custom DAX measures (Revenue/Customer, Category Performance, Quarterly Trends).
-
-**`> top_categories: [Bills, Entertainment, Fuel, Grocery, Food]`**
-**`> status: 🟢 Published with full documentation`**
-
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-6d28d9?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Yash-11k/Digital-Payment-Analytics-Dashboard-Customer-Spending-Behaviour)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒📉 Zepto SQL Sales Analysis
-**Quick-Commerce Sales Intelligence**
-
-`MySQL` · `Window Functions` · `CTEs`
-
-Deep-dive SQL analysis of quick-commerce sales data using window functions and CTEs to surface **customer segmentation** and order trends.
-
-**`> status: 🟢 Published on GitHub`**
-
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-6d28d9?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Yash-11k/Zepto_SQL_Analysis-)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨🛍️ Diwali Sales Analysis
-**End-to-End EDA**
-
-`Pandas` · `Matplotlib` · `Seaborn`
-
-Full exploratory data analysis on **20,000+** festive-season transactions, identifying customer purchase patterns across states and product categories.
-
-**`> status: 🟢 Published on GitHub`**
-
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-6d28d9?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Yash-11k/PYTHON-EDA-ANALYSIS-DIWALI-SALES-)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📊🎯 Market Segmentation
-**Unsupervised ML — Customer Clustering**
-
-`K-Means` · `Scikit-learn` · `Seaborn`
-
-Customer segmentation using **K-Means clustering**, with Elbow Method and Silhouette Analysis to determine the optimal number of clusters.
-
-**`> status: 🟡 In repositories — full source below`**
-
-[![All Repositories](https://img.shields.io/badge/VIEW_ALL_REPOS-6d28d9?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Yash-11k?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-## `05` — CURRENTLY LEARNING // NEXT UP
-
-```
-[  ] MERN Stack — building full-stack apps end-to-end (React + Node + Mongo)
-[  ] Agentic AI / Multi-agent orchestration — beyond single-agent SQL healing
-[  ] MLOps — model monitoring, CI/CD for ML, experiment tracking
-[  ] Advanced SQL performance tuning — query optimization at scale
-```
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
-</div>
-
----
-
-## `06` — CERTIFICATION REGISTRY
-
-<div align="center">
-
-| Credential | Issuer | Core Skills |
-|---|---|---|
-| **Python for Data Science** | NPTEL · IIT Madras | Data Viz, Python, Data Lifecycle |
-| **Data Science & Analytics Professional** | Code With Harry | End-to-end ML pipeline, SQL, Deployment |
+| Credential | Issuer | Skills |
+|:--|:--|:--|
+| **Python for Data Science** | NPTEL · IIT Madras | Data visualisation, Python, data lifecycle |
+| **Data Science & Analytics Professional** | Code With Harry | End-to-end ML pipeline, SQL, deployment |
 | **Web Development** | Code With Harry | HTML, CSS, JavaScript |
-| **McKinsey Forward Program 2026** | McKinsey & Company | Business Decision-Making, Leadership |
-| **Data Analytics Job Simulation** | Deloitte (Forage) | Data Modeling, Strategic Insights |
-
-</div>
+| **McKinsey Forward Program 2026** | McKinsey & Company | Business decision-making, leadership |
+| **Data Analytics Job Simulation** | Deloitte (Forage) | Data modelling, strategic insights |
 
 ---
 
-## `07` — LEADERSHIP & ACHIEVEMENTS
+## Leadership and achievements
 
-```
-> Core Team Member — Institute Innovation Council (IIC), DCRUST
-    organized technical events, fostered a startup/innovation culture on campus
-
-> Recipient — NSS Certificate of Excellence, DCRUST
-    awarded for leadership & execution of community development programs
-
-> Speaker — IIC Regional Meet 2025, AKTU
-
-> Technical Achievements
-    150+ SQL/DSA problems solved (LeetCode + HackerRank) — Joins, GROUP BY,
-    Subqueries, Window Functions. 8 end-to-end projects shipped across
-    Predictive Analytics, ML, BI Dashboards, and LLM-driven AI agents.
-```
+- **Core Team Member**, Institute Innovation Council (IIC), DCRUST: organised technical events and fostered a startup and innovation culture on campus
+- **NSS Certificate of Excellence**, DCRUST: awarded for leadership and execution of community development programmes
+- **Speaker**, IIC Regional Meet 2025, AKTU
+- **150+ SQL and DSA problems solved** on LeetCode and HackerRank: joins, GROUP BY, subqueries, window functions
 
 ---
 
-## `08` — TECH STACK // BADGE ARRAY
+## Contact
 
 <div align="center">
 
-**Languages & Core**
-<br/>
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=fbbf24)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=fbbf24)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=fbbf24)
-![React](https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=fbbf24)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=fbbf24)
+<a href="mailto:yashkagra11@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/yash-k-45536829a/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/></a>
+<a href="https://github.com/Yash-11k"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/Yashk_11925/"><img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=d29922" alt="LeetCode"/></a>
 
-<br/>
-
-**Data Science / ML / Gen AI**
-<br/>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=fbbf24)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=fbbf24)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=fbbf24)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=fbbf24)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=fbbf24)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=fbbf24)
-
-<br/>
-
-**Backend & Frameworks**
-<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=fbbf24)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=fbbf24)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=fbbf24)
-
-<br/>
-
-**DevOps / Cloud**
-<br/>
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=fbbf24)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=fbbf24)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=fbbf24)
-![AWS](https://img.shields.io/badge/AWS_SageMaker-0d1117?style=for-the-badge&logo=amazonaws&logoColor=fbbf24)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=fbbf24)
-![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=fbbf24)
-![HuggingFace](https://img.shields.io/badge/HF_Spaces-0d1117?style=for-the-badge&logo=huggingface&logoColor=fbbf24)
-
-<br/>
-
-**Analytics & Visualization**
-<br/>
-![PowerBI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=fbbf24)
-![Looker](https://img.shields.io/badge/Looker_Studio-0d1117?style=for-the-badge&logo=looker&logoColor=fbbf24)
-![Excel](https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=fbbf24)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=fbbf24)
-
-</div>
-
----
-
-## `09` — NETWORK // CONNECT
-
-```json
-{
-  "contact": {
-    "email": "yashkagra11@gmail.com",
-    "phone": "+91-7988006881",
-    "linkedin": "https://www.linkedin.com/in/yash-k-45536829a/",
-    "github": "https://github.com/Yash-11k",
-    "leetcode": "https://leetcode.com/u/Yashk_11925/",
-    "location": "Rohtak, Haryana, India(Open to Re-locate)"
-  },
-  "availability": "open_to_internships_and_collaboration",
-  "response_time": "< 24h"
-}
-```
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=fbbf24)](mailto:yashkagra11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=fbbf24)](https://www.linkedin.com/in/yash-k-45536829a/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Yash-11k)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=fbbf24)](https://leetcode.com/u/Yashk_11925/)
-
-<br/><br/>
-
-### ⭐ If any of these projects helped you or sparked an idea, a star on the repo means a lot.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbbf24,50:6d28d9,100:0d1117&height=140&section=footer&text=Thanks%20for%20stopping%20by%20⚡&fontSize=18&fontColor=0d1117&fontAlignY=70" width="100%"/>
-
-<sub>Last system sync: 2026 · Built with 🩵 and a lot of `git commit`</sub>
+<sub>Rohtak, Haryana, India · +91-7988006881 · Open to internships and collaboration</sub>
 
 </div>
